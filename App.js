@@ -8,7 +8,7 @@ render()
   return(
 <View>
 <Text>This is screen 1</Text>
-
+<Text>This is screen Ramu    1</Text>
 </View>
  
 
